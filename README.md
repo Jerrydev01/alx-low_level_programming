@@ -32,7 +32,7 @@ This repository contains projects on the C programming language. The projects co
 and more!
 
 ## Requirements
-* Ubuntu 14.04 LTS
+* Ubuntu 20.04 LTS
 * gcc 4.8.4 (-Wall, -Werror, -Wextra, and -pedantic flags)
 
 ## Projects
