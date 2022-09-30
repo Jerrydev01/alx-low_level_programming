@@ -5,7 +5,7 @@ An introductory project on:
 - The different prototypes for `main` and when to use them 
 - How to use `\_\_attribute\_\_((unused))` or `(void)`
 ## Requirements
-- Ubuntu 14.04
+- Ubuntu 20.04
 - gcc 4.8.4
 ## File Descriptions
 ### Mandatory
