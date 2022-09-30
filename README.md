@@ -1,4 +1,4 @@
-<img src="https://www.holbertonschool.com/assets/holberton-logo-1cc451260ca3cd297def53f2250a9794810667c7ca7b5fa5879a569a457bf16f.png" width="300">
+<img
 
 # Low Level Programming & Algorithms
 
@@ -53,7 +53,7 @@ and more!
 15. [0x0E-function_pointers](./0x0E-function_pointers)
 16. [0x0F-variadic_functions](./0x0F-variadic_functions)
 17. [0x10-printf](https://github.com/alexaorrico/printf) ** printf project **
-18. [0x11-singly_linked_lists]
+18. [0x11-singly_linked_lists](./0x11-singly_linked_lists)
 19. [0x12-more_singly_linked_lists](./0x12-more_singly_linked_lists)
 20. [0x13-bit_manipulation](./0x13-bit_manipulation)
 21. [0x14-file_io](./0x14-file_io)
