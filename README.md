@@ -68,4 +68,4 @@ and more!
 30. [0x1D-search_algorithms](./0x1D-search_algorithms) ** Search algorithms project **
 
 ## Credits
-Work is owned and maintained by Alexa Orrico ([@alexaorrico](https://twitter.com/alexaorrico)). Credits for group projects are displayed in the respective README.md files.
+Work is owned and maintained by Jerry Francis ([@jerrydev01](https://jerrydev01.github.io/portfolio/public/)). Credits for group projects are displayed in the respective README.md files.
