@@ -19,13 +19,4 @@ void print_numbers(const char *separator, const unsigned int n, ...);
 void print_strings(const char *separator, const unsigned int n, ...);
 void print_all(const char * const format, ...);
 
-#endif /* _VARIADIC_FUNCTIONS_H_ */
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact 
+#endif /* _VARIADIC_FUNCTIONS_H_ */ 
